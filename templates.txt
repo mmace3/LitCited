@@ -1,0 +1,76 @@
+
+@article{,
+  title= {},
+  author = {},
+  year = {},
+  journal = {},
+  volume = {},
+  pages = {},
+}
+
+
+@thesis{
+  author = {}, 
+  title = {},
+  school = {},
+  address = {},
+  year = {},
+  pages = {},
+  note = {},
+  type = {},
+}
+
+For Thesis
+type -  Enter type of thesis here. Could be PhD Dissertation, Master's Thesis, Bachelor Thesis
+	Whatever is entered will be pasted as is into bibliography
+address - city, state 
+pages - just number, pp. is appended
+
+
+@book{,
+  title = {},
+  author = {},
+  publisher = {},
+  year = {},
+  pages = {},
+  address = {}
+}
+
+
+@techreport{,
+  author = {}, 
+  title = {},
+  institution = {},
+  year = {},
+  number = {},
+  address = {},
+  month = {},
+  note = {},
+  pages = {},
+  url = {},
+}
+
+
+@misc{WinNT,
+  title = {{MS Windows NT} Kernel Description},
+  howpublished = {\url{http://web.archive.org/web/20080207010024/http://www.808multimedia.com/winnt/kernel.htm}},
+  note = {Accessed: 2010-09-30}
+}
+
+@misc{,
+  title = {},
+  howpublished = {},
+  note = {},
+}
+
+
+@InProceedings{,
+    author = {},
+    title = {},
+    booktitle = {},
+    month = {},
+    year = {},
+    publisher = {},
+    editor = {},
+    pages = {},
+}
